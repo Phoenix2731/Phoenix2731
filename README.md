@@ -2,7 +2,7 @@
 - 👀 I’m interested in information security and networking
 - 🌱 I’m currently a student 
 - 💞️ I’m looking to collaborate on projects on network security
-- 📫 you can reach me at mahajan.vamshisai@gmail.com
+
 
 <!---
 Phoenix2731/Phoenix2731 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
