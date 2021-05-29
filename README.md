@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Phoenix2731
 - 👀 I’m interested in information security and networking
-- 🌱 I’m currently a student 
-- 💞️ I’m looking to collaborate on projects on network security
+- I’m currently a student 
+- I’m looking to collaborate on projects on network security
 
 
 <!---
